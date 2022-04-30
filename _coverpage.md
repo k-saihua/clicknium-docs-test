@@ -11,4 +11,4 @@
 - 快速部署
 
 [GitHub](https://github.com/k-saihua/clicknium-docs-test)
-[Get Started](./doc/quickstart/doc.md)
+[Get Started](./doc/api/doc.md)

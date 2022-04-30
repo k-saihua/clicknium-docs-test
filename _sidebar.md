@@ -1,9 +1,20 @@
-- [快速开始](./doc/quickstart/doc.md)
+- [API reference](./doc/api/doc.md)
+  - [Clicknium](./doc/api/clicknium/doc.md)
+  - [Classes](./doc/api/classes/doc.md)
+    - [UiElement](./doc/api/classes/uielement/doc.md)
+    - [Browser](./doc/api/classes/browser/doc.md)
+    - [Desktop](./doc/api/classes/desktop/doc.md)
+    - [Sap](./doc/api/classes/sap/doc.md)
+  - [Exceptions](./doc/api/exceptions/doc.md)
+  
+
+
+<!-- - [快速开始](./doc/quickstart/doc.md)
 
 - [VSCode extension](./doc/vscodeext/doc.md)
 
 - [Python sdk](./doc/python/doc.md)
-    - [API](./doc/python/api/doc.md)
+    - [API](./doc/python/api/doc.md) -->
 
 <!-- - [Markdown]()
   - [语法及使用](./doc/markdown/doc.md)  -->
