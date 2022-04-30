@@ -1,11 +1,13 @@
-- [API reference](./doc/api/doc.md)
+- **API reference**
+  - [Overview](./doc/api/doc.md)
   - [Clicknium](./doc/api/clicknium/doc.md)
-  - [Classes](./doc/api/classes/doc.md)
+  - Classes
     - [UiElement](./doc/api/classes/uielement/doc.md)
     - [Browser](./doc/api/classes/browser/doc.md)
     - [Desktop](./doc/api/classes/desktop/doc.md)
     - [Sap](./doc/api/classes/sap/doc.md)
   - [Exceptions](./doc/api/exceptions/doc.md)
+- [**Contact us**](./doc/contact/doc.md)
   
 
 

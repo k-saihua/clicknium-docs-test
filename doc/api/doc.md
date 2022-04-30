@@ -1,15 +1,14 @@
 # Overview
 
-**API refence for clicknium python sdk**  
+API refence for clicknium python sdk
 
-# Project
+**Project**  
 
-**Python sdk: https://python.com/clicknium**  
-**Vscode extension: https://microsoft.com/clicknium**  
-**Github: https://github.com/clicknium**  
+Python sdk: https://python.com/clicknium  
+Vscode extension: https://microsoft.com/clicknium  
+Github: https://github.com/clicknium  
 
-
-# Sample code
+**Sample code** 
 
 ```python
     from clicknium import clicknium as cc, selectorstore

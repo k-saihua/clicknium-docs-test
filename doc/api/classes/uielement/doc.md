@@ -1,7 +1,7 @@
-# UiElment class
+# UiElment
 **UiElment class povides common operation for web and desktop's uielement.**  
 
-## click
+## Click
 ***def click(self, click_type = ClickType.Click, mouse_button = MouseButton.Left, click_location = ClickLocation.Center, click_method = ClickMethod.Default, modifier_key = ModifierKey.NoneKey, xoffset = 0, yoffset= 0, xrate=0, yrate = 0, timeout = 30)***  
 
 Click an element with single click, up click or down click.  
